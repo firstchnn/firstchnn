@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![CHNW's GitHub stats](https://github-readme-stats.vercel.app/api?username=firstchnn&count_private=true&show_icons=true&theme=aura_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firstchnn&layout=compact&theme=aura_dark)](https://github.com/anuraghazra/github-readme-stats)
